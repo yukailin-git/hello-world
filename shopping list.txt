@@ -2,4 +2,4 @@ apple
 cereal
 cucumbers
 banana
-walnuts
+English walnuts
